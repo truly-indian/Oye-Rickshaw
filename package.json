@@ -1,0 +1,17 @@
+{
+  "name": "oye-rickshaw",
+  "version": "1.0.0",
+  "description": "Test for Oye Rickshaw",
+  "main": "server.js",
+  "scripts": {
+     "start": "node server.js"
+
+  },
+  "author": "Deepak Malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1"
+  }
+}
